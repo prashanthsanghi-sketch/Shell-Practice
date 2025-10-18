@@ -2,4 +2,4 @@ echo "hello world"
 
 NAME="Prashanth"
 
-echo "$NAME"
+echo "$NAME is a good boy"
